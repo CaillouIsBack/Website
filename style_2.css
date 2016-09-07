@@ -1,0 +1,16 @@
+@import 'https://fonts.googleapis.com/css?family=Miriam+Libre';
+
+
+h1{
+  color: orange;
+  text-align: center;
+  font-family: 'Miriam Libre', sans-serif;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+body{
+  background-color: black;
+}
