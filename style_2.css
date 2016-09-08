@@ -1,10 +1,28 @@
 @import 'https://fonts.googleapis.com/css?family=Miriam+Libre';
-
-
+@import 'https://fonts.googleapis.com/css?family=News+Cycle';
+@import 'https://fonts.googleapis.com/css?family=Orbitron';
 h1{
   color: orange;
   text-align: center;
   font-family: 'Miriam Libre', sans-serif;
+}
+h2{
+  color: turquoise;
+  text-align: center;
+}
+h3{
+  color: red;
+  text-align: center;
+  font-family: 'News Cycle', sans-serif;
+}
+p{
+  color: blue;
+  text-align: center;
+  font-family: 'Orbitron', sans-serif;
+}
+li{
+  color: green;
+  text-align: center;
 }
 img {
   display: block;
